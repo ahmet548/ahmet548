@@ -1,62 +1,57 @@
-# Ahmet Odabaşıoğlu[cite: 3]
-**Makine Öğrenmesi & Yapay Zeka (AI) Odaklı Yazılım Mühendisi**[cite: 3]
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-212121?style=flat-square&logo=google-chrome&logoColor=white)](https://www.odabasioglu.dev/)[cite: 3]
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmetodabasioglu)[cite: 3]
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/ahmetodb)[cite: 3]
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@ahmetodb68)[cite: 3]
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmetodb68@gmail.com)[cite: 3]
-
----
-
-## 👨‍💻 Hakkımda[cite: 3]
-Yazılım Mühendisliği mezunu, Full Stack Geliştirme geçmişine sahip ve kariyer odağını **Makine Öğrenmesi ile Yapay Zeka** alanına yöneltmiş bir yazılım mühendisiyim[cite: 3]. 
-
-* Yapay zekaya olan güçlü ilgim doğrultusunda makine öğrenmesi algoritmaları ve yerel yapay zeka çözümleri geliştirmeye odaklanıyorum[cite: 3].
-* Geliştirilen modelleri uçtan uca yayına almak için geçmiş backend ve Docker tecrübelerimi etkin bir şekilde kullanıyorum[cite: 3].
-* Öncelikli hedefim, ilerleyen süreçte makine öğrenmesi alanında tamamen uzmanlaşarak ölçeklenebilir yapay zeka çözümleri üretmektir[cite: 3].
+<div align="center">
+  <h1>Hi there, I'm Ahmet! 👋</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=60&lines=Software+Engineer;Machine+Learning+%26+AI;Building+Intelligent+Systems" alt="Typing SVG" />
+  </a>
+  <br><br>
+  <a href="https://www.odabasioglu.dev/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=00D4FF" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/ahmetodabasioglu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.kaggle.com/ahmetodb"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://medium.com/@ahmetodb68"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+</div>
 
 ---
 
-## 🚀 Yetenekler[cite: 3]
-
-| Kategori | Teknolojiler |
-| :--- | :--- |
-| **Yapay Zeka & Veri** | Python, Scikit-learn, XGBoost, LightGBM, CatBoost, Prophet, NLP[cite: 3] |
-| **Programlama Dilleri** | Python, SQL[cite: 3] |
-| **Backend** | .NET 8+ (RESTful), Spring Boot[cite: 3] |
-| **Veritabanı** | PostgreSQL, MS SQL[cite: 3] |
-| **Sistem & Ağ** | Linux, Docker, Git[cite: 3] |
+### 👨‍💻 Hakkımda
+Yazılım Mühendisliği mezunu, Full-Stack geçmişine sahip ve kariyerini **Makine Öğrenmesi & Yapay Zeka** alanına adamış bir geliştiriciyim. 
+* 🤖 Yapay zeka algoritmaları ve yerel AI çözümleri geliştiriyorum.
+* 🐳 Geliştirdiğim modelleri Docker ve modern backend mimarileriyle uçtan uca yayına alıyorum.
+* 🎯 Ana hedefim: Ölçeklenebilir ve yenilikçi yapay zeka sistemleri mimarisi kurmak.
 
 ---
 
-## 💡 Projeler[cite: 3]
+### 🛠️ Teknolojiler & Yetenekler
 
-* **Kangruu (Tehdit Avcılığı Platformu)**: Bağlı kullanıcıları izlemek, ağa izinsiz girişleri tespit etmek ve saldırganların coğrafi konumlarını gerçek zamanlı takip etmek amacıyla RAG, LSTM ve XGBoost modellerinden yararlanan AI destekli platform[cite: 3]. Sürekli sunucu güvenlik açığı taramasını ve rol anomalilerini otomatikleştirip tehditleri MITRE ATT&CK ve OWASP Top 10'a göre sınıflandırır[cite: 3].
-* **Makine Öğrenmesi Repository**: Yeni öğrenilen makine öğrenmesi konseptlerinin ve veri bilimi yaklaşımlarının günlük pratik projelere dönüştürüldüğü aktif kod deposu[cite: 3].
-* **Kira Tahmin Uygulaması**: Ege Bölgesi'ndeki ev fiyatlarının çekilerek kapsamlı veri temizleme/ön işleme adımlarından geçirilmesiyle eğitilen fiyat tahmin modeli[cite: 3].
-* **Kaggle Çalışmaları**: Gerçek dünya veri setleri üzerinde problem çözme yeteneğini geliştirmek amacıyla Spaceship Titanic ve House Prices Regressor gibi yarışmalara aktif katılım[cite: 3].
+**AI & Veri Bilimi:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-17A2B8?style=flat-square&logo=xgboost&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=flat-square) *(LightGBM, CatBoost, Prophet)*
 
----
+**Backend & Veritabanı:**  
+![.NET](https://img.shields.io/badge/.NET_8+-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MS SQL](https://img.shields.io/badge/MS_SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
-## 💼 İş Deneyimi[cite: 3]
-
-* **Proje Geliştirici @ Konya Teknik Üniversitesi (8 Ay)**[cite: 3]
-  * *KTUN Staj Yönetim Sistemi (.NET, MS SQL, Docker, RESTful API)*[cite: 3]
-  * Üniversitenin uçtan uca staj yönetim süreçlerini dijitalleştirerek fiziksel belge takibini ortadan kaldırdı ve haftalar süren onay işlemlerini saniyelere indirdi[cite: 3].
-* **Stajyer @ Kron Teknoloji (2 Ay)**[cite: 3]
-  * *Merkezi Denetim Platformu (Spring Boot, React, Flutter, PostgreSQL, CentOS 9, VMware, Docker)*[cite: 3]
-  * SSH, SFTP ve Telnet üzerinden Linux sanal makinelerinin uzaktan izlenebilirliğini sağlayan çoklu sunucu denetim platformu geliştirildi[cite: 3]. Gerçek zamanlı terminal komutlarını ve dosya aktarımlarını kayıt altına alan mimari kuruldu[cite: 3].
-* **Stajyer @ Kobastar (4 Ay)**[cite: 3]
-  * *MixerPlus K200 IoT İzleme Sistemi (PHP, JavaScript, ESP32)*[cite: 3]
-  * ESP32 bağlantılı endüstriyel karıştırıcılardan gerçek zamanlı ağırlık verisi toplamak ve izlemek için uçtan uca bir IoT platformu, uzaktan reçete yapılandırma ve canlı tartım panelleri geliştirildi[cite: 3].
-* **Freelance Geliştirici**[cite: 3]
-  * Randevu ve blog sistemi (sevvalkara.com) ile ARINAT topluluk platformu (React, PostgreSQL, Docker)[cite: 3].
+**DevOps & Sistem:**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 🎓 Eğitim & İlgi Alanları[cite: 3]
+### 🔥 Öne Çıkan Projeler
 
-* **Eğitim:** Yazılım Mühendisliği, Konya Teknik Üniversitesi [2022-2026][cite: 3]
-* **Yabancı Dil:** İngilizce (B1 Seviye)[cite: 3]
-* **İlgi Alanları:** Fitness, Yürüyüş, Belgesel İzlemek, Gömülü Sistemler[cite: 3]
+* **Kangruu (Tehdit Avcılığı Platformu)**: RAG, LSTM ve XGBoost tabanlı, ağ tehditlerini ve rol anomalilerini gerçek zamanlı tespit eden yapay zeka destekli güvenlik platformu. (MITRE ATT&CK & OWASP Top 10)
+* **Kira Tahmin Uygulaması**: Ege Bölgesi ev fiyatları verisiyle eğitilmiş, uçtan uca veri temizleme ve makine öğrenmesi tabanlı fiyat tahmin modeli.
+* **Kaggle Çalışmaları**: Gerçek dünya veri setleri (Spaceship Titanic, House Prices Regressor) üzerinde veri ön işleme ve makine öğrenmesi modellemeleri.
+* **Machine Learning Repository**: Yeni öğrenilen ML konseptlerinin ve veri bilimi yaklaşımlarının günlük projelere dönüştürüldüğü aktif çalışma alanı.
+
+---
+
+### 💼 İş Deneyimi
+
+* **Proje Geliştirici @ Konya Teknik Üniversitesi** (8 Ay) - *KTUN Staj Yönetim Sistemi (.NET, MS SQL, Docker, REST API)*
+* **Stajyer @ Kron Teknoloji** (2 Ay) - *Merkezi Denetim Platformu (Spring Boot, React, Flutter, PostgreSQL)*
+* **Stajyer @ Kobastar** (4 Ay) - *MixerPlus K200 IoT İzleme Sistemi (PHP, JavaScript, ESP32)*
+* **Freelance Geliştirici** - *ARINAT & sevvalkara.com (React, PostgreSQL, Docker)*
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmet548&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmet548&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</div>
